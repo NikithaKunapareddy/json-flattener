@@ -1,0 +1,78 @@
+Key : Value
+[0].organic[0].pos : 1
+[0].organic[0].url : https://www.tripadvisor.com/Restaurants-g294226-Bali.html
+[0].organic[0].desc : 1. Akasa Jumeirah Bali. 4.9. (366 reviews) · 2. Ambar Ubud Bar. 5.0. (827 reviews) · 3. Koral Restaurant. 4.9. (1,513 reviews) · 4. MoonLite Kitchen and Bar. 4.7.
+[0].organic[0].title : THE 10 BEST Restaurants in Bali (Updated July 2025)
+[0].organic[0].url_shown : https://www.tripadvisor.com› Asia › Indonesia › Bali
+[0].organic[0].pos_overall : 1
+[0].organic[0].favicon_text : Tripadvisor
+[0].organic[1].pos : 2
+[0].organic[1].url : https://onbali.com/all-bali/best-restaurants-in-bali/
+[0].organic[1].desc : 6 days ago — Craving the best eats in Bali? From luxury fine dining to local warungs loved by foodies, we've handpicked 41 must-visit restaurants.
+[0].organic[1].title : Bali's Best Restaurants - Fine Dining & Local Gems (2025)
+[0].organic[1].url_shown : https://onbali.com› All Bali
+[0].organic[1].pos_overall : 3
+[0].organic[1].favicon_text : OnBali
+[0].organic[2].pos : 3
+[0].organic[2].url : https://www.balihoneymoonguide.com/explore/best-fine-dining-in-bali/
+[0].organic[2].desc : May 14, 2025 — Bali's best restaurants can be found where the high(er) end tourists are. Typical hotspots with the best restaurants are Ubud, Seminyak and Uluwatu.
+[0].organic[2].title : The 14 Best Fine Dining Restaurants in Bali (with 2025 ...
+[0].organic[2].url_shown : https://www.balihoneymoonguide.com› explore › best-f...
+[0].organic[2].pos_overall : 4
+[0].organic[2].favicon_text : Bali Honeymoon Guide
+[0].organic[3].pos : 4
+[0].organic[3].url : https://www.theworlds50best.com/discovery/sitemap/indonesia/bali
+[0].organic[3].desc : The best restaurants and bars in Bali ; 40 Thieves. Good-time expat bar ; Alila Villas Uluwatu. Enchanting minimalist marvel ; Amankila. Blissful Balinese bolthole.
+[0].organic[3].title : The best Restaurants and Bars in Bali, Indonesia 2025
+[0].organic[3].url_shown : https://www.theworlds50best.com› discovery › sitemap
+[0].organic[3].pos_overall : 5
+[0].organic[3].favicon_text : The World's 50 Best Restaurants
+[0].organic[4].pos : 5
+[0].organic[4].url : https://www.reddit.com/r/finedining/comments/1aj1mtc/bali_recommendations/
+[0].organic[4].desc : Cuca was our absolute favorite for high end dining. Honestly one of the best meals Ive ever had. Highly recommend Yuki in Uluwatu for a mid ...
+[0].organic[4].title : Bali Recommendations? : r/finedining
+[0].organic[4].url_shown : 10+ comments  ·  1 year ago
+[0].organic[4].pos_overall : 6
+[0].organic[4].favicon_text : Reddit · r/finedining
+[0].local_pack.items[0].cid : 6668208737899155760
+[0].local_pack.items[0].pos : 1
+[0].local_pack.items[0].title : Mamasan Bali
+[0].local_pack.items[0].rating : 4.6
+[0].local_pack.items[0].address : Asian
+[0].local_pack.items[0].rating_count : 0
+[0].local_pack.items[1].cid : 9850476580074208143
+[0].local_pack.items[1].pos : 2
+[0].local_pack.items[1].title : This Is Bali - Balinese Food & Desserts
+[0].local_pack.items[1].rating : 4.9
+[0].local_pack.items[1].address : Balinese restaurant
+[0].local_pack.items[1].rating_count : 0
+[0].local_pack.items[2].cid : 14357941300243390366
+[0].local_pack.items[2].pos : 3
+[0].local_pack.items[2].title : Uma Garden Seminyak
+[0].local_pack.items[2].rating : 4.7
+[0].local_pack.items[2].address : Steak
+[0].local_pack.items[2].rating_count : 0
+[0].local_pack.pos_overall : 2
+[0].related_searches[0].pos_overall : 7
+[0].related_searches[0].related_searches[0] : Top 10 visit restaurants in bali indonesia
+[0].related_searches[0].related_searches[1] : Best visit restaurants in bali indonesia
+[0].related_searches[0].related_searches[2] : Best restaurants Bali Seminyak
+[0].related_searches[0].related_searches[3] : Top 10 best restaurant in Bali
+[0].related_searches[0].related_searches[4] : Restaurants in Bali Seminyak
+[0].related_searches[0].related_searches[5] : Best restaurants in Bali
+[0].related_searches[0].related_searches[6] : Coolest restaurants in Bali
+[0].related_searches[0].related_searches[7] : Fine dining Bali
+[0].related_searches[0].related_searches_urls[0] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Top+10+visit+restaurants+in+bali+indonesia&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAgyEAE
+[0].related_searches[0].related_searches_urls[1] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Best+visit+restaurants+in+bali+indonesia&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAgxEAE
+[0].related_searches[0].related_searches_urls[2] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Best+restaurants+Bali+Seminyak&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAg6EAE
+[0].related_searches[0].related_searches_urls[3] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Top+10+best+restaurant+in+Bali&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAg5EAE
+[0].related_searches[0].related_searches_urls[4] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Restaurants+in+Bali+Seminyak&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAgzEAE
+[0].related_searches[0].related_searches_urls[5] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Best+restaurants+in+Bali&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAg1EAE
+[0].related_searches[0].related_searches_urls[6] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Coolest+restaurants+in+Bali&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAg7EAE
+[0].related_searches[0].related_searches_urls[7] : https://www.google.com/search?num=5&sca_esv=91e9498f46de628c&gl=us&hl=en&q=Fine+dining+Bali&sa=X&ved=2ahUKEwiQqqGS7sOOAxX8xjgGHTZfJTUQ1QJ6BAg9EAE
+[0].search_information.query : Visit restaurants in Bali Indonesia.
+[0].search_information.showing_results_for : Visit restaurants in Bali Indonesia.
+[0].search_information.total_results_count : 9130000
+[0].search_information.time_taken_displayed : None
+[0].search_information.no_results_for_original_query_found : False
+[0].total_results_count : 9130000
